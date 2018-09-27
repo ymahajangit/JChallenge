@@ -47,9 +47,6 @@ public class CharCount {
             }
         }
 
-        System.out.println("Highest Count " + maxCount);
-
-        System.out.println("Highest repeated Char " + maxCharRepeated);
         answer = "" + maxCount + maxCharRepeated;
 
          return answer;
